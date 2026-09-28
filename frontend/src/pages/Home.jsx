@@ -207,7 +207,7 @@ function Home() {
         {/* Login */}
         <button className="login-btn">
           <i className="fa-solid fa-right-to-bracket"></i>
-          Login
+          Login Now
         </button>
 
       </header>
